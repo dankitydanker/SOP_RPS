@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:duration="1000"
+        android:drawable="@drawable/rock_vs_scissors"/>
+    <item android:duration="1000"
+        android:drawable="@drawable/scissors_vs_paper"/>
+    <item android:duration="1000"
+        android:drawable="@drawable/paper_vs_rock"/>
+
+</animation-list>

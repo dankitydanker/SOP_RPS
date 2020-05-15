@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RPS_trial1</string>
+    <string name="gameTitle">Rock, Paper, Scissors!</string>
+</resources>
